@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
-<link rel="stylesheet" type="text/css" href="resources/css/loginInBook.css?ver=2"/>
+<link rel="stylesheet" type="text/css" href="resources/css/book/loginInBook.css?ver=23"/>
 </head>
 <body>
 <div style="height: 80px;"></div>
@@ -19,9 +19,9 @@
 			<div>
 				<input type="text" placeholder="User Id">
 			</div>
-			<div style="height: 20px;"></div>
+			<div style="height: 10px;"></div>
 			<div>
-				<input type="password" placeholder="User Password">
+				<input type="password" placeholder="User Password" >
 			</div>
 			<div style="height: 20px;"></div>
 			<div>
@@ -29,19 +29,19 @@
 			</div>
 		</div>
 	</form>
-	<div style="height: 10px;"></div>
-	<div class="col-md-offset-5 col-md-3 searchDiv">
-		<div class="col-md-offset-2 col-md-9 row">
-			<div class="col-md-6 text-left">
-				<a href="searchId.do">아이디찾기</a>
-			</div>
-			<div class="col-md-6 text-right">
-				<a href="searchPw.do">비밀번호찾기</a>
-			</div>
-		</div>
-		<div style="height: 70px;"></div>
+		<div style="height: 10px;"></div>
 		<div>
 			<input type="button" value="회원가입" class="joinBtn">
+		</div>
+	<div style="height: 10px;"></div>
+	<div class="col-md-offset-5 col-md-3 searchDiv">
+		<div class="col-md-offset-2 col-md-10 row">
+			<div class="col-md-5 text-center">
+				<a href="searchId.do">아이디 찾기</a>
+			</div>
+			<div class="col-md-7 text-center">
+				<a href="searchPw.do">비밀번호 찾기</a>
+			</div>
 		</div>
 	</div>
 </div>

@@ -1,0 +1,18 @@
+@charset "UTF-8";
+*{
+	margin:0;
+	padding:0;	
+}
+.frame{
+	width: 40%;
+	height: 50%;
+	margin-top: 20px;
+	display: inline-block;
+}
+.frame2{
+	display: inline-block;
+	width: 50%;
+	height: 45%;
+	margin-top: 20px;
+	margin-left: 30px;
+}

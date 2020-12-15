@@ -5,8 +5,14 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
+<link rel="stylesheet" type="text/css" href="resources/css/book/bookContent.css?ver=314">
 </head>
 <body>
-도서관페이지asdf
+	<div class="frame">
+		<img alt="배경" src="resources/images/background.png" width="100%" height="100%">
+	</div>
+	<div class="frame2">
+		<img alt="배경" src="resources/images/background_right.png" width="90%" height="100%">
+	</div>
 </body>
 </html>

@@ -13,7 +13,7 @@ public class CommonController {
 	
 	@RequestMapping(value = "/cafeMain.do")
 	public String cafeMain() {
-		return "common/cafeMain"; 
+		return "book/bookContent"; 
 	}
 	
 	@RequestMapping(value = "/bookMain.do")
