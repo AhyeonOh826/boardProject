@@ -39,10 +39,12 @@ public class BookController {
 		return "book/search"; 
 	}
 	
-	
-	
-	
-	
+	// 자료검색 - 북 페이지 
+	@RequestMapping(value = "/joinMember.do")
+	public String joinMember(MenuVO menuVO) {
+		menuVO.setMenuKind("bookMenu");
+		return "book/joinMember"; 
+	}
 	
 }
 

@@ -31,7 +31,7 @@
 	</form>
 		<div style="height: 10px;"></div>
 		<div>
-			<input type="button" value="회원가입" class="joinBtn">
+			<input type="button" value="회원가입" class="joinBtn" onclick="location.href='joinMember.do'">
 		</div>
 	<div style="height: 10px;"></div>
 	<div class="col-md-offset-5 col-md-3 searchDiv">
