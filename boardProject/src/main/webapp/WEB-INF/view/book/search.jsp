@@ -39,7 +39,7 @@
 			<div class="line">
 				<img alt="" src="resources/images/books.png" style="width: 150px;">
 				<h2 class="title">책 제목책 제목책 제목</h2>
-				<div class="author">글쓴이</div>
+				<div class="author">글sss쓴이</div>
 			</div>
 			<div class="line">
 				<img alt="" src="resources/images/books.png" style="width: 150px;">
