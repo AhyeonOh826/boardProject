@@ -1,0 +1,36 @@
+@charset "UTF-8";
+*{
+	margin:0;
+	padding:0;
+	list-style: none;
+	box-sizing: border-box;
+	text-decoration: none;
+	outline: none;
+}
+.containter{
+	width: 100%;
+}
+.search{
+	width: 80%;
+	height: 100px;
+	text-align: center;
+	padding:80px;
+	margin: 0 auto;
+}
+.list{
+	margin: 0 auto;
+	width: 80%;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	text-align: center;
+	padding:10px;
+	line-height: 30px;
+}
+.list > div{
+	width: 25%;
+}
+
+
+
+       
